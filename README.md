@@ -1,7 +1,7 @@
 # Wikipedia Toxic Comment Classification
 
-### Author : Aditya Sahani , Gaurav Manish
-### RollNo : B22CS003 , B22CS079
+### Author : Aditya Sahani
+### RollNo : B22CS003
 ### Dataset : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 
