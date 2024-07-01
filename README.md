@@ -16,6 +16,17 @@
 
 #### Model predicts the probability of each class.
 
+## Approaches Used:
++ Machine Learning Techniques
++ ANN
++ LSTM
++ Transformers
++ Fine Tuning
+
+
+## Machine Learning Techniques
+
+
 
 ### Models Used : 
 + RandomForest
